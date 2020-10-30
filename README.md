@@ -38,7 +38,7 @@ Nella root del progetto, trovate il .env gia configurato per lo stack docker pre
 ```
 composer install
 ```
-e successivamente:
+e successivamente per verificare la connessione al DB:
 ```
 vendor/bin/phpunit tests/Unit/CheckDBTest.php
 ```
