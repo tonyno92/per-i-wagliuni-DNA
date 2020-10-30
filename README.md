@@ -48,7 +48,7 @@ A questo punto trovate nella cartella
 ```
 App/Exercise
 ```
-Gli esercizi risolti, non vi basta altro che dare i comando seguenti per testare singolarmente gli esercizi:
+Gli esercizi risolti, non vi basta altro che dare i comandi seguenti per testare singolarmente gli esercizi:
 
 #### \App\Exercise\One
 ```
